@@ -2,6 +2,8 @@
 
 # Xbox One Bliss Hack Efuse Side-Channel Current Monitor (INA181 + TLV3201)
 
+# *THIS IS COMPLETELY UNTESTED AND WAS CREATED WITH LOADS OF HELP USE AS A REFERENCE ONLY*
+
 ## Hardware
 
 ### Schematic
