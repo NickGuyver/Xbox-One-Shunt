@@ -3,3 +3,8 @@ Xbox*one*shunt-backups/
 *.tmp
 *.lck
 *.autosave
+*.gbr
+*.gbrjob
+*.pos
+*.xslx
+*.csv
